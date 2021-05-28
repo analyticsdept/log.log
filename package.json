@@ -1,0 +1,22 @@
+{
+  "name": "log.log",
+  "version": "1.0.0",
+  "description": "it's big, it's heavy, it's wood",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analyticsdept/log.log.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "analyticsdept",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/analyticsdept/log.log/issues"
+  },
+  "homepage": "https://github.com/analyticsdept/log.log#readme"
+}
